@@ -1,0 +1,7 @@
+! --. Emmet abbreviation
+alt+up/down key --> to ove the line up down
+ctrl+/ --> to commenting (<!...>)
+ctrl+d --> to copy and paste below
+ctrl+enter --> to go next line
+UTF arrows --> for arrows
+alt + select the positions to take the cursore in those positions
